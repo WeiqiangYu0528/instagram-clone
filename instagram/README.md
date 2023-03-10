@@ -4,6 +4,6 @@ Docker Image:
 
 Front-end: https://hub.docker.com/r/w8yu/instagram
 
-Back-end: https://hub.docker.com/repository/docker/w8yu/instagram-back-end
+Back-end: https://hub.docker.com/r/w8yu/instagram-back-end
 
 
